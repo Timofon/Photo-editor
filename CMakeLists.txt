@@ -1,0 +1,15 @@
+add_executable(project
+        main.cpp
+        cmd_arg_parser.cpp
+        cmd_arg_parser.h
+        filter_pipeline_factory.cpp
+        filter_pipeline_factory.h
+        base_filters.cpp
+        base_filters.h
+        bitmap.cpp
+        bitmap.h
+        application.cpp
+        application.h
+        test.cpp
+        exceptions.h
+        )
